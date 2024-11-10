@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart.Server", "Smart.Server\Smart.Server.csproj", "{ADF1F665-4C73-455F-8327-E7A27A364DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart.Server.Lib", "Smart.Server.Lib\Smart.Server.Lib.csproj", "{661C3EEB-9481-47C4-AD16-2C5CF61A8F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart.Server.Lib.Test", "Smart.Server.Lib.Test\Smart.Server.Lib.Test.csproj", "{6E5E3A9A-F3D1-4A6E-AA48-C6730E0C3004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF1F665-4C73-455F-8327-E7A27A364DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF1F665-4C73-455F-8327-E7A27A364DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF1F665-4C73-455F-8327-E7A27A364DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF1F665-4C73-455F-8327-E7A27A364DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661C3EEB-9481-47C4-AD16-2C5CF61A8F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661C3EEB-9481-47C4-AD16-2C5CF61A8F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661C3EEB-9481-47C4-AD16-2C5CF61A8F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661C3EEB-9481-47C4-AD16-2C5CF61A8F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E5E3A9A-F3D1-4A6E-AA48-C6730E0C3004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5E3A9A-F3D1-4A6E-AA48-C6730E0C3004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5E3A9A-F3D1-4A6E-AA48-C6730E0C3004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5E3A9A-F3D1-4A6E-AA48-C6730E0C3004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
