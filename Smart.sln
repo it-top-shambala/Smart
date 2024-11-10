@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart.Server.Lib", "Smart.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart.Server.Lib.Test", "Smart.Server.Lib.Test\Smart.Server.Lib.Test.csproj", "{6E5E3A9A-F3D1-4A6E-AA48-C6730E0C3004}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart.Client", "Smart.Client\Smart.Client.csproj", "{B5B80289-FFFB-4E57-A916-0443476E151D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{6E5E3A9A-F3D1-4A6E-AA48-C6730E0C3004}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E5E3A9A-F3D1-4A6E-AA48-C6730E0C3004}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E5E3A9A-F3D1-4A6E-AA48-C6730E0C3004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B80289-FFFB-4E57-A916-0443476E151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B80289-FFFB-4E57-A916-0443476E151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B80289-FFFB-4E57-A916-0443476E151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B80289-FFFB-4E57-A916-0443476E151D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
